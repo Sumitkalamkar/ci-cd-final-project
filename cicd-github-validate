@@ -1,0 +1,3 @@
+gh run list
+gh run view 35736538014
+gh run view 35736538014 --verbose
